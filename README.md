@@ -1,4 +1,6 @@
 ### Olá sou Bruno César 
+"No front-end, transformamos ideias em interfaces e tornamos a interação uma obra de arte."
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoDark777&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDark777&theme=synthwave&layout=compact)
 
